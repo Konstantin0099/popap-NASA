@@ -1,4 +1,5 @@
 .popap__container {
+  position: relative;
   display: block;
   margin: 55px auto;
   background: #ffffff;
